@@ -5,6 +5,8 @@ A repository where I will upload the Python programs, which I've learned from th
 
 
 
+Day one: Began Python course at Udacity.
+Day two: Half way through the course.
 
 
 
@@ -19,6 +21,4 @@ A repository where I will upload the Python programs, which I've learned from th
 
 
 
-
-
-Date: 01.07.2014
+Date Started: 01.07.2014
